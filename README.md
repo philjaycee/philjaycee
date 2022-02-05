@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Phil <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Javascript developer from Indonesia</h3>
 
 
 - 🔭 I’m currently working on my **Full Stack Web Application**
