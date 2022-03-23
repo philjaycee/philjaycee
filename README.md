@@ -41,6 +41,9 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://reactnative.dev/" target="_blank"> 
+    <img src="https://toppng.com/free-image/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-PNG-free-PNG-Images_163076"  width="40" height="40"  />
+  </a>
 </p>
 
 <p align= "center">
