@@ -42,7 +42,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   <a href="https://reactnative.dev/" target="_blank"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Freactnative.dev%2F&psig=AOvVaw3K54Wuqh4ivonnMkMyJGr2&ust=1648110198772000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiorY7n2_YCFQAAAAAdAAAAABAt"  width="40" height="40"  />
+    <img src="https://www.cleanpng.com/png-react-javascript-angularjs-ionic-atom-2904925/preview.html"  width="40" height="40"  />
   </a>
 </p>
 
